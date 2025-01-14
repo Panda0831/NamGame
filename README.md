@@ -1,0 +1,2 @@
+# NamGame
+just for fun
